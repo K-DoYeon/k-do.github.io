@@ -111,10 +111,23 @@ div.sns i{
 }
 
 /****************teckskills **********************/
+.skillss{
+    padding: 0;
+}
+.skillss h1{
+    font-size: 25px;
+    color: rgb(68,122,114);
+}
+.skillss span{
+    font-size: 15px;
+    color: rgb(68,122,114);
+}
+.skills{
+    margin: 30px;
+}
 .col-right>h1{
     font-size: 25px;
     color: rgb(68,122,114);
-
 }
 .col-right span{
     font-size: 15px;
